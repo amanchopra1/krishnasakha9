@@ -1,0 +1,59 @@
+{
+    "intents":[
+
+        {
+
+            "tag": "greeting",
+            "patterns": [ "hello","hii","hey", "hey saakha", "saakha","haari bol"
+            ],
+            "responses":["hello saakha","Always for you saakha","hey saakha","how are you","Here's your saakha", "Haari bol"
+            ]
+        },
+        {
+
+            "tag": "Bye",
+            "patterns": [ "ok bye saakha","bye","see you later saakha", "bye saakha", "saakha bye", "see you later"
+            ],
+            "responses":["Haari bol"
+            ]
+        },
+        {
+
+            "tag": "health",
+            "patterns": [ "how are you","how you","are you fine", "hey saakha aer you good ?", "saakha you good?"
+            ],
+            "responses":["i am fine and you?","Always good and you?","hey i am good and you","i am good . how are you","i am good . what about you?"
+            ]
+        },
+        {
+
+            "tag": "anger",
+            "patterns": [  "angry","Furious","Mad","upset","pissed off","Seething with rage","livid","temper","Have a heated argument"
+            ],
+            "responses":[ "One whose mind remains undisturbed amidst misery, who does not crave for pleasure, and who is free from attachment, fear, and anger, is called a sage of steady wisdom.","While contemplating on the objects of the senses, one develops attachment to them. Attachment leads to desire, and from desire arises anger.","Anger leads to clouding of judgment, which results in bewilderment of memory. When memory is bewildered, the intellect gets destroyed; and when the intellect is destroyed, one is ruined.", 
+            "Chant Hare Krishna and be Happy","Fools vent their anger, but the wise quietly hold it back.","Everyone should be quick to listen, slow to speak and slow to become angry because human anger does not produce the righteousness that God desires.","But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips","Forgiveness may be something you need to work through. You may be able to identify the true source of your anger on your own and implement strategies to manage your anger and you may need to take time to explore your emotions, experiences, and work through your anger"
+            ]
+        },
+        {
+
+            "tag": "depression",
+            "patterns": [ "depression","feeling low","Its all my fault","I am tired","I want to be alone","No one cares","lonely", "sad", "unhappy"
+            ],
+            "responses":[ "You worry about events you are not supposed, and speak like a learned man, Wise people do not worry about things that are perishable, or immortal", " it does not befit you to yield to this unmanliness. Give up such petty weakness of heart and arise"," the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons.One must learn to tolerate them without being disturbed.",
+            "There are better times ahead. God has a plan for you, even if your current circumstances are proving difficult.","Feelings of depression can be a heavy burden, and many people make the mistake of thinking its a burden they must carry alone.","Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."," Depression and anxiety can be isolating experiences. But I am there, and I care about you. You can turn to me for help with whatever you may be feeling."," In this world you will have trouble. But take heart! I have overcome the world.","Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self."
+            ]
+        }
+        
+
+
+
+    ]
+
+
+
+
+
+
+
+
+}
